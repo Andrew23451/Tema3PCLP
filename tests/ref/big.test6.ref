@@ -1,0 +1,296 @@
+0 Munteanu Gabriel 1 5.00 b
+1 Moldovan Marian 3 8.10 b
+2 Becali Ioana 2 6.02 b
+3 Barbu Maria 3 6.30 t
+4 Mihoc Iulian 4 6.06 t
+5 Terzea Tiberiu 3 7.06 t
+6 Merei Larisa 2 4.32 b
+7 Encea Andrei 2 5.96 b
+8 Gheorghita Adriana 3 5.96 t
+9 Roman Razvan 4 6.62 b
+10 Petre Sorina 3 5.89 t
+11 Mihoc Larisa 4 5.24 b
+12 Pancila Izabela 4 7.46 b
+13 Pogoran Ciprian 4 7.70 b
+14 Timu Tiberiu 4 5.44 b
+15 Encea Raluca 2 7.63 b
+16 Riga Victor 3 6.12 t
+17 Stan Diana 3 5.74 t
+18 Becali Bianca 3 8.24 b
+19 Lupu Elena 3 4.09 t
+20 Popescu Vlad 1 6.64 t
+21 Stoica Mihai 3 5.41 t
+22 Encea Cristina 2 5.12 b
+23 Elena Denisa 1 6.54 b
+24 Stan Ioana 1 7.36 b
+25 Terzea Razvan 2 5.88 b
+26 Ionescu Gabriel 1 8.14 t
+27 Ionescu Ioana 1 6.15 b
+28 Rebej Adriana 2 4.22 b
+29 Gheorghita Ana 4 5.32 b
+30 Dumitru Izabela 2 6.26 t
+31 Popescu Ciprian 1 9.11 b
+32 Timofte Bianca 1 8.26 b
+33 Mihoc Ioana 3 7.03 t
+34 Lupu Dragos 4 5.95 b
+35 Georgescu Raluca 1 6.72 t
+36 Mihoc Adriana 4 4.60 b
+37 Petic Raluca 2 7.57 b
+38 Rebej Stefan 4 6.95 b
+39 Ionescu Adriana 1 8.41 b
+40 Dumitru Adriana 2 9.02 b
+41 Constantin Tiberiu 2 6.22 b
+42 Stan Ioana 2 6.16 b
+43 Stan Adrian 1 3.10 b
+44 Georgescu Florentina 3 7.48 t
+45 Roman Nicoleta 3 5.21 t
+46 Popescu Dragos 1 5.65 b
+47 Mihalt Larisa 1 6.00 b
+48 Sandu Gabriel 2 5.62 t
+49 Constantin Andrei 2 8.25 b
+50 Constantin Denisa 1 4.52 b
+51 Iliescu Tiberiu 4 7.22 b
+52 Ciobanu Teodor 2 7.36 b
+53 Becali Nicoleta 4 6.21 b
+54 Ionescu Mihai 4 9.00 b
+55 Grigore Razvan 1 8.92 b
+56 Pirvan Sorina 1 8.48 b
+57 Tudor Sorina 3 7.16 t
+58 Terzea Marian 1 7.61 b
+59 Mihalt Cristina 1 6.07 b
+60 Antonescu Andrei 4 7.91 t
+61 Mihalt Bianca 4 6.21 b
+62 Grigore Elena 1 5.63 b
+63 Ionescu Sorina 3 6.37 t
+64 Radu Florentina 4 7.38 b
+65 Tudor Sorina 4 5.77 b
+66 Pancila Adriana 3 6.40 t
+67 Tudor Stefan 1 7.27 t
+68 Georgescu Alina 4 6.70 b
+69 Dragan Cristina 1 7.39 b
+70 Iliescu Victor 1 6.49 b
+71 Stan Bianca 3 6.99 t
+72 Pancila Dragos 3 7.35 t
+73 Pirvan Victor 4 3.06 b
+74 Roman Daniela 4 7.37 b
+75 Moldovan Bianca 3 7.10 t
+76 Merei Gabriel 1 5.22 t
+77 Timu Razvan 2 7.59 b
+78 Radu Gabriel 1 4.94 b
+79 Roata Teodor 2 6.03 b
+80 Iliescu Alina 4 4.73 b
+81 Petre Daniela 1 4.92 b
+82 Ciobanu Nicoleta 1 6.43 b
+83 Petre Izabela 3 4.07 t
+84 Moldovan Tiberiu 2 6.46 b
+85 Timu Dragos 4 3.73 b
+86 Sandu Andrei 4 6.79 b
+87 Gheorghita Maria 1 7.55 b
+88 Riga Maria 3 6.12 t
+89 Sandu Diana 4 4.89 b
+90 Petrescu Alina 1 7.14 b
+91 Encea Vlad 4 6.35 b
+92 Trandaf Ana 3 6.38 t
+93 Petre Tiberiu 2 5.72 t
+94 Ionescu Maria 2 7.78 b
+95 Stoica Teodor 2 4.46 t
+96 Trandaf Vlad 3 6.43 t
+97 Grigore Vlad 4 6.41 b
+98 Nicolescu Ana 4 7.06 b
+99 Rebej Razvan 4 7.70 b
+0 17
+0 9
+1 7
+2 2
+2 10
+3 5
+3 11
+4 12
+4 9
+5 12
+5 17
+5 9
+6 13
+7 19
+7 12
+7 7
+8 2
+8 10
+8 14
+9 16
+9 20
+10 15
+11 3
+11 0
+11 17
+12 18
+12 2
+12 13
+13 8
+13 19
+13 6
+14 13
+15 2
+15 18
+16 18
+16 19
+17 7
+18 11
+19 8
+20 4
+20 9
+20 3
+21 16
+21 19
+22 12
+23 16
+23 20
+23 12
+24 8
+24 14
+24 15
+25 5
+25 14
+25 9
+26 5
+26 13
+26 8
+27 14
+28 10
+29 5
+29 10
+30 14
+30 7
+30 12
+31 11
+32 2
+32 8
+32 4
+33 4
+34 19
+34 4
+34 11
+35 4
+35 2
+35 7
+36 20
+37 2
+37 17
+37 10
+38 8
+38 18
+39 18
+40 11
+41 2
+42 1
+42 13
+42 17
+43 11
+44 13
+45 11
+46 18
+46 10
+46 3
+47 7
+47 1
+47 6
+48 2
+49 2
+49 15
+50 14
+51 4
+51 7
+52 3
+52 5
+53 8
+53 3
+53 5
+54 16
+55 5
+56 4
+57 19
+57 5
+57 3
+58 5
+58 17
+58 20
+59 1
+60 10
+60 15
+61 5
+62 9
+62 5
+62 4
+63 19
+63 8
+64 13
+65 12
+65 8
+66 3
+66 12
+66 9
+67 0
+67 8
+68 16
+68 14
+69 13
+70 4
+70 8
+71 4
+71 9
+72 18
+73 14
+74 6
+75 4
+76 17
+76 18
+77 12
+77 19
+77 11
+78 18
+78 13
+79 0
+80 6
+81 17
+81 4
+81 10
+82 20
+82 16
+82 17
+83 4
+84 5
+84 18
+85 16
+85 0
+86 16
+87 15
+87 4
+87 5
+88 20
+88 2
+88 9
+89 14
+90 12
+90 9
+90 1
+91 9
+91 3
+92 15
+92 7
+92 20
+93 12
+93 13
+94 13
+94 2
+94 3
+95 6
+95 9
+95 12
+96 18
+96 9
+97 1
+97 10
+97 0
+98 6
+99 8
+99 7

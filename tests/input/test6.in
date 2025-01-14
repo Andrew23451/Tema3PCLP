@@ -1,0 +1,7 @@
+6
+UPDATE studenti SET an_studiu = 4 WHERE id = 4;
+UPDATE inrolari SET id_materie = 7 WHERE id_student = 1;
+UPDATE studenti SET statut = b WHERE medie_generala >= 8.0 AND an_studiu = 3;
+UPDATE studenti SET statut = t WHERE medie_generala < 8.0 AND an_studiu = 3;
+SELECT id, nume, an_studiu, medie_generala, statut FROM studenti;
+SELECT id_student, id_materie FROM inrolari;

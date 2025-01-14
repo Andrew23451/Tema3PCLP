@@ -1,0 +1,47 @@
+[STUDENTI]
+0, Nicolescu Elena, 3, t
+1, Pogoran Adrian, 4, b
+2, Trandaf Denisa, 1, b
+3, Ionescu Teodor, 4, b
+4, Popescu Adrian, 3, b
+5, Encea Cristina, 3, t
+6, Ionescu Andrei, 1, b
+7, Roman Denisa, 4, b
+8, Ionescu Florentina, 4, b
+9, Petrescu Florentina, 3, b
+[MATERII]
+0, USO, Roman Florentina
+1, PCLP1, Pancila Daniela
+2, SDA, Ionescu Diana
+3, Fizica, Petrescu Cristina
+4, SO, Gheorghita Daniela
+5, Analiza, Tudor Alina
+6, MN, Sandu Nicoleta
+7, EGC, Petic Vlad
+8, Algebra, Sarbu Daniela
+[INROLARI]
+0, 7, 3.37 2.00 3.35
+0, 6, 2.65 2.00 2.07
+0, 4, 2.12 2.00 3.28
+1, 8, 2.34 0.39 0.11
+2, 8, 3.30 1.95 3.05
+2, 0, 2.22 1.50 3.08
+2, 3, 2.56 0.73 0.25
+3, 1, 2.78 0.37 2.61
+3, 8, 0.96 1.17 3.57
+3, 6, 1.62 0.73 2.73
+4, 4, 3.60 0.79 3.35
+5, 8, 2.94 1.66 4.00
+5, 6, 1.72 1.15 2.49
+5, 4, 2.33 2.00 3.10
+6, 7, 2.91 1.54 1.35
+6, 2, 2.06 0.17 2.20
+6, 6, 0.00 1.19 2.55
+7, 1, 0.00 2.00 3.32
+7, 6, 0.16 2.00 2.56
+7, 4, 0.00 1.88 3.76
+8, 6, 2.40 2.00 2.15
+8, 1, 1.29 0.66 3.08
+8, 4, 1.94 0.00 4.00
+9, 8, 2.73 1.21 2.39
+9, 4, 2.01 1.17 2.80

@@ -1,0 +1,26 @@
+[STUDENTI]
+0, Lupu Stefan, 3, b
+[MATERII]
+0, USO, Olteanu Andrei
+1, PCLP1, Pancila Izabela
+2, SDA, Olteanu Mihai
+3, Fizica, Moldovan Alex
+4, SO, Terzea Victor
+5, Analiza, Elena Teodor
+6, MN, Ciobanu Cristina
+7, EGC, Stoica Izabela
+8, Algebra, Popescu Denisa
+9, PL, Mihalt Iulian
+10, POO, Gheorghita Teodor
+11, RC, Moldovan Elena
+12, IA, Nicolescu Adrian
+13, BD, Nicolescu Adriana
+14, ASC, Popescu Ana
+15, CN, Becali Denisa
+16, MDS, Moldovan Larisa
+17, PC, Roata Raluca
+18, SGBD, Antonescu Denisa
+19, PS, Gheorghita Vlad
+20, ISC, Trandaf Marian
+[INROLARI]
+0, 11, 0.00 1.31 4.00

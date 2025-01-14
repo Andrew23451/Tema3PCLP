@@ -1,0 +1,3 @@
+2
+UPDATE studenti SET medie_generala = 9.0 WHERE id = 0;
+SELECT nume, medie_generala FROM studenti WHERE id = 0;

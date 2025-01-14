@@ -1,0 +1,5 @@
+4
+UPDATE inrolari SET note = 2.50 3.0 5.0 WHERE id_student = 1 AND id_materie = 8;
+UPDATE studenti SET nume = "Andrei Marian" WHERE id = 5;
+SELECT id_student, id_materie, note FROM inrolari WHERE id_student = 1;
+SELECT nume, an_studiu FROM studenti WHERE id <= 5;

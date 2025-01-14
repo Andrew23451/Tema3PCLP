@@ -1,0 +1,31 @@
+[STUDENTI]
+0, Tamas Dragos, 4, b
+1, Munteanu Elena, 1, b
+[MATERII]
+0, USO, Grigore Mihai
+1, PCLP1, Petic Denisa
+2, SDA, Dumitru Gabriel
+3, Fizica, Merei Diana
+4, SO, Radu Izabela
+5, Analiza, Georgescu Nicoleta
+6, MN, Munteanu Alex
+7, EGC, Encea Mihai
+8, Algebra, Stoica Maria
+9, PL, Munteanu Florentina
+10, POO, Dumitru Adriana
+11, RC, Roata Diana
+12, IA, Dinu Alex
+13, BD, Stoica Marian
+14, ASC, Petrescu Razvan
+15, CN, Constantin Vlad
+16, MDS, Terzea Cristina
+17, PC, Petrescu Elena
+18, SGBD, Stoica Mihai
+19, PS, Lupu Denisa
+20, ISC, Pogoran Nicoleta
+[INROLARI]
+0, 14, 3.34 1.38 3.42
+0, 18, 1.52 1.41 3.10
+1, 13, 1.03 2.00 3.84
+1, 5, 3.03 2.00 2.77
+1, 10, 2.97 1.33 1.38

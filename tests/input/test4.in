@@ -1,0 +1,4 @@
+3
+SELECT * FROM studenti WHERE id > 5 AND statut = b;
+SELECT id_student FROM inrolari WHERE id_materie = 4;
+SELECT id_materie FROM inrolari WHERE id_student = 12;
