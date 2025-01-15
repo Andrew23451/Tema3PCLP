@@ -833,6 +833,8 @@ void apply_complex_delete(secretariat *s, const char *entity_type, const char *c
                     se_afiseaza = verifica_char(s->materii[j].nume_titular, valoare2, operator2);
                 }
                 if (se_afiseaza) {
+                    free(s->materii[j].nume);
+                    free(s->materii[j].nume_titular);
                     for (int k = j; k < s->nr_materii - 1; k++) {
                         s->materii[k] = s->materii[k + 1];
                     }
