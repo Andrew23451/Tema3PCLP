@@ -706,6 +706,8 @@ void apply_simple_delete(secretariat *s, const char *entity_type,
         for (j = 0; j < s->nr_materii; j++) {
             if (strcmp(camp, "id") == 0) {
                 if (verifica_int(s->materii[j].id, atoi(valoare), operator)) {
+                    free(s->materii[j].nume);
+                    free(s->materii[j].nume_titular);
                     for (int k = j; k < s->nr_materii - 1; k++) {
                         s->materii[k] = s->materii[k + 1];
                     }
@@ -714,6 +716,8 @@ void apply_simple_delete(secretariat *s, const char *entity_type,
                 }
             } else if (strcmp(camp, "nume") == 0) {
                 if (verifica_char(s->materii[j].nume, valoare, operator)) {
+                    free(s->materii[j].nume);
+                    free(s->materii[j].nume_titular);
                     for (int k = j; k < s->nr_materii - 1; k++) {
                         s->materii[k] = s->materii[k + 1];
                     }
@@ -722,6 +726,8 @@ void apply_simple_delete(secretariat *s, const char *entity_type,
                 }
             } else if (strcmp(camp, "nume_titular") == 0) {
                 if (verifica_char(s->materii[j].nume_titular, valoare, operator)) {
+                    free(s->materii[j].nume);
+                    free(s->materii[j].nume_titular);
                     for (int k = j; k < s->nr_materii - 1; k++) {
                         s->materii[k] = s->materii[k + 1];
                     }
