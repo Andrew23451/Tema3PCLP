@@ -2,7 +2,7 @@
 
 ## Task 1: Inițializare și Calcul Media
 
-Se va deschide fișierul specific pentru citire, se va aloca dinamic o structură de tip `secretariat` și se va accesa cu ajutorul variabilei `s` toate câmpurile din fiecare structură componentă a structurii mari.
+Se va deschide fișierul specific pentru citire, se va aloca dinamic o structură de tip `secretariat` și se vor accesa cu ajutorul variabilei `s` toate câmpurile din fiecare structură componentă a structurii mari.
 
 Algoritmul va urmări categoriile precizate în fișier și, cu ajutorul funcției `strtok`, va delimita fiecare câmp în parte, după care va inițializa specific fiecare parte a fiecărei structuri.
 
